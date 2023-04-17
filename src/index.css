@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sue+Ellen+Francisco&display=swap');
+
+
+.text{
+  font-family: 'Edu NSW ACT Foundation';
+  font-size:40px;
+  font-weight: lighter;
+  padding-bottom: 10px;
+
+}
+
+
+
+.blogtext{
+  font-family: 'Amatic SC';
+  font-size: 50px;
+  font-weight: lighter;
+  letter-spacing: 2px;
+}
+
+
+.blog{
+  font-family: 'Sue Ellen Francisco';
+  font-size:30px;
+}
